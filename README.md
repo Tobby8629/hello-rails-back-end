@@ -18,7 +18,7 @@
 - [📝 License](#license)
 
 # 📖 Hello-rails-Backend <a name="about-project"></a>
-> This is the repo to practice working with rails api and rails as a backend application. Here is the link to the [frontend](https://github.com/Tobby8629/hello-rails-back-end)
+> This is the repo to practice working with rails api and rails as a backend application. Here is the link to the [frontend](https://github.com/Tobby8629/Hello-rails-frontend/tree/fetchapi)
 
 ## Built With <a name="built-with"></a>
 
