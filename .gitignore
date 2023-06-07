@@ -6,6 +6,9 @@
 
 # Ignore bundler config.
 /.bundle
+# .gitignore
+node_modules
+.env
 
 # Ignore all logfiles and tempfiles.
 /log/*
